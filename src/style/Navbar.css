@@ -1,0 +1,11 @@
+.navbar--container{
+    display: flex;
+    align-items: center;
+    padding: 22.5px 30px;
+    background-color: #FFFFFF;
+    box-shadow: 0 3px 7.5px #0000001d;
+}
+
+.navbar-logo{
+    width: 82px;
+}
